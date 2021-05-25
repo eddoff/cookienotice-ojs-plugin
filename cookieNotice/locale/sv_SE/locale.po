@@ -1,0 +1,5 @@
+msgid "plugins.generic.cookieNotice.displayName"
+msgstr "Cookie-notifieringsplugin"
+
+msgid "plugins.generic.cookieNotice.description"
+msgstr "Informerar besökare om att cookies används."
