@@ -3,3 +3,9 @@ msgstr "Cookie Notice Plugin"
 
 msgid "plugins.generic.cookieNotice.description"
 msgstr "Turns on a site-wide cookie notice."
+
+msgid "plugins.generic.cookieNotice.infoText"
+msgstr "By using Publicera you accept the cookies that we use on the website. <a href=\"/index/cookies\">Read more about how we use cookies</a>."
+
+msgid "plugins.generic.cookieNotice.confirmationButtonText"
+msgstr "OK, I understand"

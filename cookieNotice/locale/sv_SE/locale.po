@@ -3,3 +3,9 @@ msgstr "Cookie-notifieringsplugin"
 
 msgid "plugins.generic.cookieNotice.description"
 msgstr "Informerar besökare om att cookies används."
+
+msgid "plugins.generic.cookieNotice.infoText"
+msgstr "Genom att använda Publicera godkänner du de kakor (cookies) som finns på webbplatsen. <a href=\"/index/cookies\">Läs mer om hur vi använder kakor</a>."
+
+msgid "plugins.generic.cookieNotice.confirmationButtonText"
+msgstr "OK, jag förstår"
