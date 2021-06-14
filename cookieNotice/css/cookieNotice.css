@@ -4,7 +4,14 @@
   z-index: 999;
   width: 100%;
   margin: 0;
+  padding:  2em 0;
   background-color: #000;
+  color: #fff;
+  text-align: center;
+}
+
+#cookie-notice a,
+#cookie-notice p {
   color: #fff;
 }
 
