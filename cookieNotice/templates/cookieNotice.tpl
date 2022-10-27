@@ -2,9 +2,7 @@
   <div class="container">
     <p>
       {translate key='plugins.generic.cookieNotice.infoText'}
-      <a href=&quot;{translate key='plugins.generic.cookieNotice.link'}&quot;>
-        {translate key='plugins.generic.cookieNotice.linkText'}
-      </a>
+      {translate key='plugins.generic.cookieNotice.link'}
     </p>
     <button id="cookie-notice-confirmation" type="button" class="btn btn-outline-light btn-round text-uppercase">
       {translate key='plugins.generic.cookieNotice.confirmationButtonText'}
