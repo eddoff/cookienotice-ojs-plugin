@@ -2,7 +2,7 @@
   <div class="container">
     <p>
       {translate key='plugins.generic.cookieNotice.infoText'}
-      <a href="{translate key='plugins.generic.cookieNotice.link'}">
+      <a href=&quot;{translate key='plugins.generic.cookieNotice.link'}&quot;>
         {translate key='plugins.generic.cookieNotice.linkText'}
       </a>
     </p>
