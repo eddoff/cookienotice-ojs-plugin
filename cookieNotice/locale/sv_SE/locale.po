@@ -4,7 +4,7 @@ msgstr "Cookie-notifieringsplugin"
 msgid "plugins.generic.cookieNotice.description"
 msgstr "Informerar besökare om att cookies används."
 
-msgid "palugins.generic.cookieNotice.infoText"
+msgid "plugins.generic.cookieNotice.infoText"
 msgstr "Denna webbplats använder kakor (cookies) för att din upplevelse av webbplatsen ska blir så bra som möjligt. Kakor sparas när du loggar in i systemet OJS för att hantera din historik och inloggning."
 
 msgid "plugins.generic.cookieNotice.link"
