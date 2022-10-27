@@ -4,14 +4,11 @@ msgstr "Cookie-notifieringsplugin"
 msgid "plugins.generic.cookieNotice.description"
 msgstr "Informerar besökare om att cookies används."
 
-msgid "plugins.generic.cookieNotice.infoText"
-msgstr "Genom att använda webbplatsen godkänner du de kakor (cookies) som finns på webbplatsen."
+msgid "palugins.generic.cookieNotice.infoText"
+msgstr "Denna webbplats använder kakor (cookies) för att din upplevelse av webbplatsen ska blir så bra som möjligt. Kakor sparas när du loggar in i systemet OJS för att hantera din historik och inloggning."
 
 msgid "plugins.generic.cookieNotice.link"
-msgstr "https://journal.ep.liu.se/index.php/index/user/setLocale/sv_SE?source=%2Findex.php%2Findex%2Fcookies"
-
-msgid "plugins.generic.cookieNotice.linkText"
-msgstr "Läs mer om hur vi använder kakor."
+msgstr "<a target=\"_blank\" href=\"https://journal.ep.liu.se/index.php/index/user/setLocale/sv_SE?source=%2Findex.php%2Findex%2Fcookies\">Läs mer om hur vi använder kakor.</a>"
 
 msgid "plugins.generic.cookieNotice.confirmationButtonText"
 msgstr "OK, jag förstår"
