@@ -5,7 +5,10 @@ msgid "plugins.generic.cookieNotice.description"
 msgstr "Informerar besökare om att cookies används."
 
 msgid "plugins.generic.cookieNotice.infoText"
-msgstr "Genom att använda Publicera godkänner du de kakor (cookies) som finns på webbplatsen."
+msgstr "Genom att använda webbplatsen godkänner du de kakor (cookies) som finns på webbplatsen."
+
+msgid "plugins.generic.cookieNotice.link"
+msgstr "https://journal.ep.liu.se/index.php/index/user/setLocale/sv_SE?source=%2Findex.php%2Findex%2Fcookies"
 
 msgid "plugins.generic.cookieNotice.linkText"
 msgstr "Läs mer om hur vi använder kakor."
