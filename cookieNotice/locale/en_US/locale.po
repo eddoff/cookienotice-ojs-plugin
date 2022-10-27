@@ -5,7 +5,10 @@ msgid "plugins.generic.cookieNotice.description"
 msgstr "Turns on a site-wide cookie notice."
 
 msgid "plugins.generic.cookieNotice.infoText"
-msgstr "By using Publicera you accept the cookies that we use on the website."
+msgstr "By using the website you accept the cookies that we use on the website."
+
+msgid "plugins.generic.cookieNotice.link"
+msgstr "https://journal.ep.liu.se/index.php/index/user/setLocale/en_US?source=%2Findex.php%2Findex%2Fcookies"
 
 msgid "plugins.generic.cookieNotice.linkText"
 msgstr "Read more about how we use cookies."
